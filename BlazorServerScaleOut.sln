@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorServerScaleOut", "BlazorServerScaleOut\BlazorServerScaleOut.csproj", "{522DA578-86D1-42FD-9911-9F07A592EB2A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8DC24FF1-0C58-45D8-AD15-A6A1DCACCC91}"
+	ProjectSection(SolutionItems) = preProject
+		Dockerfile = Dockerfile
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{522DA578-86D1-42FD-9911-9F07A592EB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522DA578-86D1-42FD-9911-9F07A592EB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522DA578-86D1-42FD-9911-9F07A592EB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522DA578-86D1-42FD-9911-9F07A592EB2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22EB586B-4664-4FC3-ACE5-6378AEF52F00}
+	EndGlobalSection
+EndGlobal
